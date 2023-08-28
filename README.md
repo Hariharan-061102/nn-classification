@@ -14,7 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![](6.png)
 
 ## DESIGN STEPS
 
@@ -159,26 +159,26 @@ with open('customer_data.pickle', 'rb') as fh:
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
+![](1.png)
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![](2.png)
 
 ### Classification Report
 
-Include Classification Report here
+![](3.png)
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![](4.png)
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![](5.png)
 
 ## RESULT
 A neural network classification model is developed for the given dataset.
